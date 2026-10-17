@@ -1,2 +1,4 @@
-# test---new-product---build-in-public1-df26ee6f
-Created by Blitzy
+# Blitzy Welcome
+
+Prints `Welcome to Blitzy` to stdout.
+Run with `node index.js`.
